@@ -1,4 +1,6 @@
-# art-gallery2
+# Art Gallery
+A website to represent a differents paintaings for several artists
+
 
 ##   Who we are 
 _we are team 2 members
