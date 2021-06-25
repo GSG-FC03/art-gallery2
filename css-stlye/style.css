@@ -1,11 +1,12 @@
 body {
     background-color: #9e9e9e1f;
     font-family: sans-serif;
-    height: 999px;
+    height: 100vh;
   }
   /*Start Header*/
   header {
     margin:25px 0px 0px 13px;
+    
   
   }
   header .fa-chevron-left{
@@ -34,3 +35,64 @@ body {
     color: #b3afaf;
   }
   /* End Header */
+  /* Start Section*/
+  .gallery {
+    margin-top: 25px;
+    width: 100%;
+    height: 100%;
+  }
+  .gallery .img {
+    width: 100%;
+    height: 100%;
+    box-shadow: 1px 5px 6px #888888;
+    border-radius: 15px;
+    margin-bottom: 20px;
+  }
+  .gallery .img-gallery {
+    display: flex;
+  }
+  .gallery .img-gallery img {
+    border-radius: 15px;
+    box-shadow: 1px 5px 6px #888888;
+
+  }
+
+  .gallery .img-left :first-child {
+    margin-bottom: 23px;
+
+  }
+  .gallery .img-left img {
+    width: 162px;
+    height: 162px;
+  }
+  .gallery .img-right img {
+    width:120px ;
+    height: 352px;
+  }
+  .gallery .img-right :first-child {
+    width: 180px;
+  }
+
+   /*End Section */
+   /*Start Footer */
+  footer {
+    background-color: #fff;
+    text-align: center;
+    border-radius: 30px;
+    height: 92px;
+    width: 357px;
+    position: fixed;
+    bottom: 30%;
+  }
+  footer .icons {
+    padding-top: 15px;
+  }
+  footer .icons i {
+    font-size: 15px;
+    color: #ff5722;
+    padding-right: 36px;
+  }
+  footer .icons .fa-plus-circle {
+    font-size: 50px;
+  }
+  /*End Footer*/
