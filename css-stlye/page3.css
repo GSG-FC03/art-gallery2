@@ -102,3 +102,27 @@ hr{
         }
 }
 /* big screens  */
+/* medium screen */
+@media (min-width:992px) and (max-width:1199px){
+    body{
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+    .chiled-2{
+        margin-top: -100px;
+       }
+       .content-box .detail-box1{
+           margin: 0 10px;
+           text-align: center;
+        }
+     
+        .description-p{
+            text-align: center;
+        }
+        hr{
+            margin-top: 15px;
+            width: 50%;
+        }
+}
+/* medium screen */
