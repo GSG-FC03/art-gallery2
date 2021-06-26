@@ -77,3 +77,28 @@ hr{
     width: 70%;
     margin: 15px 0 -3px 0;
 }
+/* big screens  */
+@media (min-width:1200px){
+
+    body{
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+    .chiled-2{
+        margin-top: -100px;
+       }
+       .content-box .detail-box1{
+           margin: 0 10px;
+           text-align: center;
+        }
+     
+        .description-p{
+            text-align: center;
+        }
+        hr{
+            margin-top: 15px;
+            width: 50%;
+        }
+}
+/* big screens  */
