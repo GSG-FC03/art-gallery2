@@ -41,7 +41,9 @@ A website to represent a differents paintaings for several artists
       * How we do it 
  
 * We Create File Strcture  
+
 ## Issues
+
 -     We used 11 issues for our tasks 
         We followed same process in every issue with a little difference 
         at first add tilte and little description to illustrate task 
@@ -49,18 +51,21 @@ A website to represent a differents paintaings for several artists
         and give it a lable   in each progress during built it
          
  ## Build Phase -2
+ 
  - After Create file strcture include
  * ```( html-pages ,css-stlye ,audio images )```Folders 
  * ```(index.html, read me )``` file 
+ 
  - we clone the repository in Bash screen 
 then we create branches for each task and push the files to convert from local to be in Git Hub 
 and open pull request and wait the approval from the Lead Mentor & team members (reviewers in each issues)
 Then merged Task and clone the repo again to start a new branch related to new issue and repeat these step to launch our project
 
 ## publishing
-- After completed and finished we published our site to git hub
- ## Add links   
 
+- After completed and finished we published our site to git hub
+
+ ## Add links   
 
  ``` figma link```
  *  https://www.figma.com/file/ekDp2D444qOOJacmI9MpZZ/Art-gallery?node-id=0%3A1
@@ -68,3 +73,4 @@ Then merged Task and clone the repo again to start a new branch related to new i
  ``` demo live```
 
 * https://gsg-fc03.github.io/art-gallery2/
+

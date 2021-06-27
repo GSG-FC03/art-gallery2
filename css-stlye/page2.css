@@ -9,11 +9,43 @@ body{
     background-image: url('../images/cover.png ');
     background-size: cover;
     
-}
+} 
+
+
 .parent{
 display: flex;
 flex-direction: column;
 justify-content: center;
+}
+
+
+@media screen and(min-whith:1200px) {
+    .body{
+        
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        
+        
+       
+    }
+
+    .chiled-2{
+        
+            display: flex;
+            flex-direction: column;
+            background-color: #FFFFFF;
+            height: 10vh;
+            border-radius: 40px;
+            align-items: center;
+            margin-top: -100px;
+            
+        
+     }
+
+    
+
+
 }
 .chiled-1{
 display: flex;
