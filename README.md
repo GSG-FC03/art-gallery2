@@ -21,15 +21,31 @@ A website to represent a differents paintaings for several artists
 
  ## Describe Our Journey 
   
-  - First thing we did is conducting a planning meet 
-   - we put the basics  line and  We got to know each other & scheduled another meeting to start working 
-   - then We split the project into small issues then we split these issues upon ourselves
-   - everyday we we ussed to meetup in the mornning 9am 
-   and see our process and what we really did and planning for what is the next step 
-   - we start push in github with push the ``` README.md ``` file without describe our journey 
-   - the we uploaded the main structure files ,styles folder and images folder 
-   - then each one of us works on his tasks and by the end of the day we orgnaize meet to do explanation to each other and sahre each other problem we face during day 
-   - ``` Fatma && Eman ``` push the main page and it's style 
-   - ``` Adham ``` upload the second page (single page ) and give it style
-   - ``` Mohamed ``` upload the third page (Detail page)
+ Planning Phase 
+  We distributed each task for every member with specific time 
+Build Phase -1
+   Creat new repo on the Fc03 
+         repo contain  
+o	read me file   
+o	issues 
+read me file mainly describe 3 points 
+     who we are ,what our website talk about ,Purpose of Art Gallery , How we do it 
+**We Create File Strcture 
+Issues  
+       We used 11 issues for our tasks 
+        We followed same process in every issue with a little difference 
+        at first add tilte and little description to illustrate task 
+        and assign the member who did it 
+        and give it a lable   in each progress during built it 
+
+Build Phase -2
+After Create file strcture include( html-pages ,css-stlye ,audio images )Folders 
+(index.html, read me ) file 
+ we clone the repository in Bash screen 
+then we create branches for each task and push the files to convert from local to be in Git Hub 
+and open pull request and wait the approval from the Lead Mentor & team members (reviewers in each issues)
+Then merged Task and clone the repo again to start a new branch related to new issue and repeat these step to launch our project ..
+
+
+
    
