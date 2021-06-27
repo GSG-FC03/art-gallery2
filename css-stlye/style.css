@@ -229,9 +229,6 @@ body {
     margin-left: 36px;
     
   }
-    
-
-  
   footer .icons i {
     font-size: 15px;
     color: #ff5722;
@@ -245,3 +242,24 @@ body {
   }
   
   /*End Footer*/
+  /* Start Responsive for Footer*/
+  @media (max-width: 1400px) and (min-width:500px) {
+    footer {
+      width: 100%;
+    }
+    footer .icons {
+      padding-top: 29px;
+      display: flex;
+      justify-content: space-evenly;
+    }
+    footer .icons i {
+      font-size: 26px;
+      color: #ff5722;
+      padding-right: 36px;
+    }
+    footer .icons .fa-plus-circle {
+      font-size: 65px;
+      margin-top: -14px;
+    }
+  }
+  /* End Responsive for Footer*/  
